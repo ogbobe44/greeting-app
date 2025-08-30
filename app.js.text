@@ -1,0 +1,7 @@
+// Ask the user for their name 
+let name = prompt("what is your name?");
+
+// show greeting
+alert("Hello " + "! Welcome to javascript");
+
+ 
